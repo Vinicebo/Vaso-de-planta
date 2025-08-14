@@ -1,2 +1,2 @@
-# Vaso-de-planta-com-irriga-o-autom-tica
+# Vaso de planta automatico
 repositório designado a matéria de sistemas embarcados e IoT
